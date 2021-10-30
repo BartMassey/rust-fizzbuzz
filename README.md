@@ -17,5 +17,8 @@ faster than "slow". So… yeah.
 This code was inspired by this
 [Reddit thread](https://www.reddit.com/r/rust/comments/qiyqlo/fizzbuzz_in_rust_is_slower_than_python/?utm_source=share&utm_medium=web2x&context=3).
 
+For more on these lines, see the
+[fasthello](http://github.com/BartMassey/fasthello) project.
+
 This code is made available under the "MIT License". Please
 see the file `LICENSE` in this distribution for license terms.
